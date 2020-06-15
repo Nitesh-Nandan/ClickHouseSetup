@@ -1,0 +1,5 @@
+<config>
+    <user>root</user>
+    <password>root</password>
+    <!--<secure>True</secure>-->
+</config>
